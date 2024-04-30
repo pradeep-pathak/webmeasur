@@ -1,0 +1,16 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-XGm24lLL.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/fonts/DMSans-VariableFont_opsz,wght.ttf": {
+    "file": "assets/DMSans-VariableFont_opsz_wght-ZAMnKeXJ.ttf",
+    "src": "resources/fonts/DMSans-VariableFont_opsz,wght.ttf"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-9mbrzSRH.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
